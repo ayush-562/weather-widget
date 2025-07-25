@@ -2,7 +2,7 @@
 
 A sleek, modern weather web app that displays real-time weather data for any city using the OpenWeatherMap API. Styled with a soft gradient UI and built with responsive components.
 
-![Screenshot](./public/widget_preview.png.png)
+![Screenshot](./public/widget_preview.png)
 
 ---
 
