@@ -15,7 +15,7 @@ A sleek, modern weather web app that displays real-time weather data for any cit
 
 ## Tech Stack
 
-- **Frontend:** React, Vite
+- **Frontend:** React + Vite
 - **Styling:** Tailwind CSS, shadcn UI
 - **Weather API:** OpenWeatherMap API
 
@@ -23,11 +23,11 @@ A sleek, modern weather web app that displays real-time weather data for any cit
 
 ## 📦 Installation
 
-To get started with **WeathrScape**, clone the repository and install dependencies:
+To get started with **Weather Widget**, clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/WeathrScape.git
-cd WeathrScape
+git clone https://github.com/your-username/weather-widget.git
+cd weather-widget
 npm install
 ```
 
@@ -47,16 +47,6 @@ npm install
    ```bash
    npm run dev
    ```
-
----
-
-## 🚧 Development
-
-To run the app in development mode:
-
-```bash
-npm run dev
-```
 
 ---
 
