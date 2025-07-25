@@ -26,7 +26,7 @@ export default function WeatherApp() {
     return (
         <div style={{ textAlign: "center" }}>
             <div className="text-center mb-8 pt-8">
-                <h1 className="text-5xl sm:text-4xl font-bold text-white mb-4 tracking-tight">Weather Gallery</h1>
+                <h1 className="text-5xl sm:text-4xl font-bold text-white mb-4 tracking-tight">Weather App</h1>
                 <p className="text-xl text-indigo-200 mt-4 font-light">Discover weather through stunning visuals</p>
             </div>
             <SearchBox updateInfo={updateInfo} />
